@@ -5,6 +5,7 @@ Curso J2EE con JSF & Maven Sabatino
 
 Christian Jesus Rodriguez Martinez
 Juan Carlos Martinez Avalos
-Raúl López García
+Raúl López García -Verificando codificacion de caracteres
 Victor Hugo Blanco Romero
-Chochito "aqui presente"
+Alejandro Xochihua Jorge
+
